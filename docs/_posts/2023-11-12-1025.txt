@@ -4,6 +4,6 @@ title:  Portrait#1
 date:   2023-11-12 10:20:00 +0100
 categories: jekyll update
 ---
-![]({{site.assetbaseurl}}{% link assets/IMG_6755.jpg})
-![]({{site.assetbaseurl}}{% link assets/IMG_6756.jpg})
-![]({{site.assetbaseurl}}{% link assets/IMG_6758.jpg})
+![]({{site.assetbaseurl}}{% link assets/IMG_6755.jpg%})
+![]({{site.assetbaseurl}}{% link assets/IMG_6756.jpg%})
+![]({{site.assetbaseurl}}{% link assets/IMG_6758.jpg%})
